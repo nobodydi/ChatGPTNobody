@@ -21,3 +21,6 @@
     <img src="https://img.shields.io/badge/Follow%20%40harshitethic-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
   </a>
 </div>
+
+<p align="center"><a href="https://github.com/nobodydi/ChatGPTNobody"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/nobodydi/ChatGPTNobody"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
